@@ -1603,6 +1603,8 @@
       "displayName": "CU",
       "id": "cu-3b6392",
       "locationSet": {"include": ["kr", "my"]},
+      "matchNames": ["씨유"],
+      "matchTags": ["shop/supermarket"],
       "tags": {
         "brand": "CU",
         "brand:wikidata": "Q12580836",
@@ -2360,6 +2362,7 @@
       "displayName": "GS25",
       "id": "gs25-f248a7",
       "locationSet": {"include": ["kr", "vn"]},
+      "matchNames": ["지에스편의점", "지에스25", "gs편의점"],
       "matchTags": ["shop/supermarket"],
       "tags": {
         "brand": "GS25",
@@ -7351,7 +7354,8 @@
       "displayName": "세븐일레븐",
       "id": "7eleven-fab923",
       "locationSet": {"include": ["kr"]},
-      "matchNames": ["ministop", "미니스톱"],
+      "matchNames": ["ministop", "미니스톱", "세븐"],
+      "matchTags": ["shop/supermarket"],
       "tags": {
         "brand": "세븐일레븐",
         "brand:en": "7-Eleven",
@@ -7367,10 +7371,12 @@
       "displayName": "이마트24",
       "id": "emart24-fab923",
       "locationSet": {"include": ["kr"]},
+      "matchTags": ["shop/supermarket"],
       "tags": {
         "brand": "이마트24",
         "brand:en": "emart24",
         "brand:ko": "이마트24",
+        "brand:wikidata": "Q16219674",
         "name": "이마트24",
         "name:en": "emart24",
         "name:ko": "이마트24",
